@@ -1,0 +1,16 @@
+.container{
+    height: auto;
+    width: 60%;
+    margin: 0 auto;
+   
+    background-image: url(img/mohin.jpg);
+    background-position:right;
+    background-repeat: no-repeat;
+    background-size: contain;  
+}
+b{
+    text-decoration: underline;
+}
+body{
+  font-size: 18px;
+}
